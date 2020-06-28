@@ -4,7 +4,7 @@ class Weather {
   constructor(city) {
     this.base = "https://api.openweathermap.org/data/2.5/";
     this.city = city;
-    this.key = "1d7de6aa9c0d0182a919387f9808bb84";
+    this.key = "54897uizweuizwier87275843";
   }
 
   // Fetch weather data from API
